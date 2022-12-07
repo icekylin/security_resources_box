@@ -1,8 +1,8 @@
 > 学习路上使用过的一些资源整理
 
 **Description:**
-- Local-R: 本地书籍、文献资源
-- Online-R: 在线资料、文献资源
+- Local-R: 本地书籍、文献资源 (在仓库内的本地资源)
+- Online-R: 在线资料、文献资源 (互联网上的在线资源)
 
 ## Table of Contents (目录)
 
