@@ -1,8 +1,8 @@
 > 学习路上使用过的一些资源整理
 
-description
-- **Local-R** 本地书籍、文献资源
-- **Online-R** 在线资料、文献资源
+**Description:**
+- Local-R: 本地书籍、文献资源
+- Online-R: 在线资料、文献资源
 
 ---
 
